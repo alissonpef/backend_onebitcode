@@ -1,4 +1,4 @@
-# Meus Projetos de Backend com Node.js
+# Bem-vindo(a) ao meu Repositório! 👋
 
 Olá! Meu nome é **Alisson** e sou um desenvolvedor Backend em formação. Este repositório documenta meu aprendizado e progresso nos estudos de **Backend com Node.js** no curso Full Stack da [OneBitCode](https://onebitcode.com/).
 
